@@ -2,7 +2,7 @@
 <h3 align="center">Data Enthusiast • Cloud Explorer • Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://github.com/Kitsi91.png" alt="Kostas Kitsantas" width="160" style="border-radius: 50%;">
+  <img src="https://github.com/konstantinoskitsantas.png" alt="Kostas Kitsantas" width="160" style="border-radius: 50%;">
 </p>
 
 ---
@@ -18,9 +18,9 @@
 
 ### 🧠 Currently Learning
 
-- ☁️ **Cloud Engineering** (Azure)
-- 🧪 **Data Projects** using Python & SQL
-- 🗣️ **Languages**: French 🇫🇷
+- ☁️ **Cloud Engineering** (Azure)  
+- 🧪 **Data Projects** using Python & SQL  
+- 🗣️ **Languages**: French 🇫🇷  
 
 ---
 
@@ -67,11 +67,11 @@ _When I’m not building dashboards, I’m probably playing tennis and smashing 
 
 - 📧 Email: **kostasdiux8@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/konstantinos-kitsantas/)  
-- ⭐ [Follow me on GitHub](https://github.com/your-github-username)
+- ⭐ [Follow me on GitHub](https://github.com/Kitsi91)
 
 <p align="left">
-  <a href="https://github.com/your-github-username?tab=followers">
-    <img src="https://img.shields.io/github/followers/Kitsi91?label=Follow%20Me&style=social" alt="GitHub Follow"/>
+  <a href="https://github.com/Kitsi91?tab=followers">
+    <img src="https://img.shields.io/github/followers/konstantinoskitsantas?label=Follow%20Me&style=social" alt="GitHub Follow"/>
   </a>
 </p>
 
