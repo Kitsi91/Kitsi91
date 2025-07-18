@@ -4,6 +4,10 @@ I’m an experienced officer from Greece with proven leadership and project mana
 
 ---
 
+🗣️ **Languages I Speak:**  
+![English](https://img.shields.io/badge/Language-English-blue?logo=googletranslate&style=flat-square)  
+![German](https://img.shields.io/badge/Language-German-black?logo=googletranslate&style=flat-square)
+
 🔭 **Current Role:**  
 📍 Staff Officer – Education and Training Branch (Military Personnel)  
 🎯 Aspiring **Data Analyst** / **Cloud Engineer**
@@ -26,14 +30,6 @@ When I’m not building charts, you can find me on the **tennis court** smashing
 
 📫 **Let’s Connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/konstantinos-kitsantas/)
-
----
-
-📈 **GitHub Stats:**
-
-![Kostas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
 
 ---
 
