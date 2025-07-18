@@ -2,7 +2,7 @@
 <h3 align="center">Data Enthusiast • Cloud Explorer • Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kitsi91&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 ### 🧠 Currently Learning
 
-- ☁️ **Cloud Engineering** (Azure + AWS)
+- ☁️ **Cloud Engineering** (Azure)
 - 🧪 **Data Projects** using Python & SQL
 - 🗣️ **Languages**: French 🇫🇷
 
@@ -27,13 +27,16 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Seaborn-FFFFFF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=plotly&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/Seaborn-FFFFFF?style=flat&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/SPSS-1C5D99?style=flat&logo=spss&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" height="30"/>
 </p>
 
 ---
@@ -57,15 +60,6 @@
 ### 🎾 Fun Fact
 
 _When I’m not building dashboards, I’m probably playing tennis and smashing forehands._
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kitsi91&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kitsi91&layout=compact&theme=tokyonight" height="165" />
-</p>
 
 ---
 
