@@ -1,12 +1,40 @@
-- 👋 Hi, I’m @Kitsi91
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there, my name is Kostas Kitsantas 👋 🇬🇷
 
-<!---
-Kitsi91/Kitsi91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m an experienced officer from Greece with proven leadership and project management skills. While I’ve proudly served in the military, my passion lies in **data analysis** and **cloud engineering**—transforming raw data into strategic insights and building scalable, efficient cloud solutions.
+
+---
+
+🔭 **Current Role:**  
+📍 Staff Officer – Education and Training Branch (Military Personnel)  
+🎯 Aspiring **Data Analyst** / **Cloud Engineer**
+
+🌱 **Currently Learning:**  
+- Advanced **Cloud skills** (Azure & AWS) ☁️  
+- **French** 🇫🇷
+
+🛠️ **Technologies I Use and Love:**  
+- 💻 Python  
+- 🗃️ SQL  
+- 📊 Pandas, Matplotlib, Seaborn  
+- ☁️ Azure, AWS (learning)
+
+📂 **Current Focus:**  
+Setting up my **GitHub portfolio** with projects that reflect real-world problems and cloud-based data solutions.
+
+🎾 **Fun Fact:**  
+When I’m not building charts, you can find me on the **tennis court** smashing serves.
+
+📫 **Let’s Connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/konstantinos-kitsantas/)
+
+---
+
+📈 **GitHub Stats:**
+
+![Kostas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
+
+---
+
+🌟 Thanks for stopping by! I’m always open to collaborating on data or cloud-based projects. Feel free to reach out!
