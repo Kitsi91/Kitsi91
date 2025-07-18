@@ -2,7 +2,7 @@
 <h3 align="center">Data Enthusiast • Cloud Explorer • Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kitsi91&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://github.com/Kitsi91.png" alt="Kostas Kitsantas" width="160" style="border-radius: 50%;">
 </p>
 
 ---
@@ -63,14 +63,18 @@ _When I’m not building dashboards, I’m probably playing tennis and smashing 
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Contact Me
+
+- 📧 Email: **kostasdiux8@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/konstantinos-kitsantas/)  
+- ⭐ [Follow me on GitHub](https://github.com/your-github-username)
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/konstantinos-kitsantas/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kostas%20Kitsantas-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://github.com/your-github-username?tab=followers">
+    <img src="https://img.shields.io/github/followers/Kitsi91?label=Follow%20Me&style=social" alt="GitHub Follow"/>
   </a>
 </p>
 
 ---
 
-<!-- Feel free to customize further as you grow! -->
+<!-- Customize as you grow! -->
